@@ -14,7 +14,7 @@
 - 🌿 Herbalism.
 
 <!-- Current Role -->
-##👩🏽‍💻 Current Role
+## 👩🏽‍💻 Current Role
 
 🌐 **School District Network IT Manager**: Managing and optimizing all aspects of the district’s technology to support the digital and educational needs of students and staff.
 
